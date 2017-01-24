@@ -1,0 +1,12 @@
+{
+  "HELLO": "Hola",
+  "NAME": "Nombre",
+  "AGE": "Edad",
+  "ADDRESS": "Dirección",
+  "COUNTRY": "País",
+  "CITY": "Ciudad",
+  "INFO": "Esta es la información que tenemos guardada de ti",
+  "BTN_ENGLISH": "Traducir a Inglés",
+  "BTN_SPANISH": "Traducir a Español",
+  "TITLE": "Tu Información"
+}
